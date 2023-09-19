@@ -1,0 +1,105 @@
+
+body{
+    /* background:#6c72c7; */
+    background: #5C8374;
+}
+.leading-relaxed{
+    color: white;
+    font-size: 20px;
+    /* font-family: poppins; */
+}
+
+section .leading-relaxedd{
+    color: rgb(36, 32, 32);
+    font-weight: 500;
+    font-family: italic;
+    font-size: 18px;
+}
+
+section .title-fonts{
+    font-size: 40px;
+    font-family: poppins;
+    font-weight: bolder;
+}
+.text-gray-600{
+    color: rgb(255, 255, 255);
+}
+.mr-5 {
+    font-size: 20px;
+}
+.text-gray-600{
+    color: aliceblue;
+}
+.first-step{
+    color: #ffffff;
+}
+.type-text{
+    font-size: 40px;
+    color: black;
+    /* text-align: center; */
+    padding: 30px;
+    font-family: poppins;
+    font-weight: bolder;
+}
+section .name-around{
+    font-family: poppins;
+    font-weight: bolder;
+    font-size: 45px;
+}
+.img-you{
+    clip-path: circle();
+}
+/* .you-space{
+    color: aliceblue;
+} */
+
+.icon-ion{
+    color: black;
+}
+
+.foot-ron{
+    background-color: #053B50;
+    color: bisque;
+}
+
+.media-info a{
+    margin: 10px;
+    font-size: 1.2rem;
+}
+
+.name-space{
+     font-family: poppins;
+}
+
+section .hello-there{
+    font-weight: bolder;
+    font-family: poppins;
+    font-size: 40px;
+
+
+}
+
+section .de-to{
+    font-weight: bolder;
+    color: black;
+}
+
+section .name-int{
+    font-weight:600;
+}
+section .mini-bus{
+    font-weight: 600;
+}
+section .num-me{
+    color: black;
+    
+    font-size: 25px;
+}
+
+/* ---------------------------------------new animation------------------------------- */
+
+.text-hie{
+    padding: 20px;
+    text-align: center;
+    justify-content: center;
+}
